@@ -1,6 +1,6 @@
 # README
 
-Learning ruby and rails from scratch.
+Learning Ruby on Rails from scratch.
 
 Things you may want to cover:
 
